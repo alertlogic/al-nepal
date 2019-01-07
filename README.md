@@ -28,6 +28,9 @@ This library provides access to all of the Alert Logic API Clients in a single p
     Nepal.environments.
       See @al/environments documentation for usage.
   
+  Provides @al/subscriptions
+      See @al/subscriptions documentation for usage.
+  
   Provides @al/client
 
     Nepal.client.

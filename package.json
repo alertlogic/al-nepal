@@ -44,7 +44,8 @@
     "@al/client": "^0.1.0",
     "@al/aims": "0.1.0",
     "@al/credentials": "0.1.0",
-    "@al/environments": "0.1.0"
+    "@al/environments": "0.1.0",
+    "@al/subscriptions": "0.1.0"
   },
   "peerDependencies": {
   },
